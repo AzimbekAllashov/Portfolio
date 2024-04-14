@@ -1,5 +1,4 @@
-# Portfolio
+# Портфолио
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-  
+- Адаптивный веб-сайт личного портфолио HTML,CSS и JavaScript.
+- Совместимость со всеми мобильными устройствами,красивый и приятный пользовательский интерфейс.
